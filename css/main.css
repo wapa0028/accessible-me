@@ -1,8 +1,9 @@
 body {
   font-family: 'Roboto', Helvetica, sans-serif;
-  background-color: grey;
+  background-color: blanchedalmond;
   margin: 0;
   padding: 0;
+  color: #404040;
 }
 
 h1,
@@ -68,4 +69,10 @@ form button {
 
 .site-footer {
   padding: 2rem 0;
+}
+
+/* My CSS */
+
+.current a:link{
+  background-color: white;
 }
